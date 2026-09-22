@@ -25,7 +25,7 @@ Software Engineering student at **1337 Coding School (42 Network)** and Mathemat
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 📐 **Studies:** Software Engineering at **1337 (42 Network)** & Mathematics at **FSSM**.
 - 💻 **Tech Interests:** Low-level programming in C, memory management, algorithms, and UNIX/Linux systems.
@@ -38,9 +38,9 @@ Software Engineering student at **1337 Coding School (42 Network)** and Mathemat
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile" />
@@ -49,7 +49,7 @@ Software Engineering student at **1337 Coding School (42 Network)** and Mathemat
 
 ---
 
-### 📫 Connect
+## 📫 Connect
 
 - **GitHub:** [@Ramingooo](https://github.com/Ramingooo)
 - **Email:** [ramingooo8@gmail.com](mailto:ramingooo8@gmail.com)
