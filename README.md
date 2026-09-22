@@ -14,6 +14,11 @@
 
 # Hi, I'm Adam 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/1337-000000?style=for-the-badge&logo=42&logoColor=white" alt="1337" />
+  <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42" />
+</p>
+
 Software Engineering student at **1337 Coding School (42 Network)** and Mathematics student at **FSSM** (Faculté des Sciences Semlalia Marrakech). Passionate about combining mathematical logic with low-level C programming, algorithms, and UNIX environments.
 
 </div>
@@ -29,6 +34,17 @@ Software Engineering student at **1337 Coding School (42 Network)** and Mathemat
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/adelkahl" alt="adelkahl's 42 stats" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
